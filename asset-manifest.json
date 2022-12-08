@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/andresito/static/css/main.073c9b0a.css",
+    "main.js": "/andresito/static/js/main.b349d643.js",
+    "static/js/787.3e3d80ba.chunk.js": "/andresito/static/js/787.3e3d80ba.chunk.js",
+    "static/media/logo.svg": "/andresito/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/andresito/index.html",
+    "main.073c9b0a.css.map": "/andresito/static/css/main.073c9b0a.css.map",
+    "main.b349d643.js.map": "/andresito/static/js/main.b349d643.js.map",
+    "787.3e3d80ba.chunk.js.map": "/andresito/static/js/787.3e3d80ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b349d643.js"
+  ]
+}
